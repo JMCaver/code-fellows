@@ -1,0 +1,41 @@
+body {
+
+}
+section img{
+  height: 300px;
+  width: 450px;
+}
+header{
+  text-align: center;
+  background-color: red;
+  font-family: arial;
+  display: block;
+  font-size: 20px;
+}
+p {
+  color: #FF0000;
+}
+footer{
+  color: red;
+  background-color: black;
+  font-style: italic;
+  clear: both;
+}
+li {
+  text-align: center;
+  margin: 10px;
+  color: #000000;
+}
+aside{
+  width: 17%;
+  display: inline-block;
+  color: purple;
+  background-color: black;
+  margin-left: 20px;
+  padding: 40px;
+  text-align: right;
+  vertical-align: top;
+}
+section{
+  float: left;
+}
